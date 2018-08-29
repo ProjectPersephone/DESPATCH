@@ -11,7 +11,7 @@ o ground_station/server : contains API server software.
 o ground_station/utility : contains some utility software such as a viewer or an editor, etc...  
 o document : contains some specifications of morse and baudot code format, etc...  
 
-This repo was forked to port the code to the KickSat Sprite where possible.
+This repo was forked to port the code to the Sprite picosatellite.
 =======
 Build instructions (quoted from email from Junshi HORIGUCHI - zap00365@nifty.com)
 
